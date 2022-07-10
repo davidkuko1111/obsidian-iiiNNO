@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "820a2643ea306490",
+    "type": "split",
+    "children": [
+      {
+        "id": "e00ba335d1e97943",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "iiiNNO/Entrepreneurship/01 Pick and validate an idea.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "62c5c5570f1d9044",
+    "type": "split",
+    "children": [
+      {
+        "id": "4449a90579e1c3d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ef7c51ccb621efce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7f6c4ae107147ea8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "325ccae889bc5ace",
+    "type": "split",
+    "children": [
+      {
+        "id": "9885661be3a582f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e4a59385d31d03bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "iiiNNO/Entrepreneurship/01 Pick and validate an idea.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b7dc1d4181780d2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "269a604939ee3a3e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "iiiNNO/Entrepreneurship/01 Pick and validate an idea.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e00ba335d1e97943",
+  "lastOpenFiles": [
+    "iiiNNO/Entrepreneurship/01 Pick and validate an idea.md",
+    "iiiNNO/Entrepreneurship/02 Build a product people love.md",
+    "iiiNNO/Entrepreneurship/03 Design and create a scalable business model.md",
+    "iiiNNO/Entrepreneurship/iiiNNO Share.md",
+    "01 Pick and validate an idea 1.md",
+    "test.md",
+    "Untitled.md"
+  ]
+}
